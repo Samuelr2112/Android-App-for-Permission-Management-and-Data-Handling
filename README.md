@@ -1,4 +1,7 @@
 # CS-360
+
+Summary: This project is a mobile application developed for Android using Java and Gradle as the build tool. The app manages device permissions and includes features for handling data and resources through different views and layouts. Its structure includes essential files such as the AndroidManifest.xml, XML design resources, and adaptive icons for various resolutions. It's an ideal project for learning or developing basic functionalities of an Android application, such as permission management and local data handling.
+
 **What were the requirements and goals of the app you developed?**
 The app was specifically designed to streamline daily task management through a user-friendly interface aimed at enhancing productivity. The primary goals were to facilitate easier planning, task tracking, and execution with robust features that cater to the needs of a diverse user base, ensuring that users could manage their tasks efficiently and effectively.
 
